@@ -56,9 +56,10 @@ facebook_page_crawler $APP_ID $APP_SECRET 'appledaily.tw,ETtoday' '2016-09-01 00
 
 This crawler use **app_id**, **app_secret** to get the token.
 
-Please an app at https://developers.facebook.com/ and use the **app_id** and **app_secret** at this crawler.
+Please create an app at https://developers.facebook.com/ and use the **app_id** and **app_secret** at this crawler.
 
 ## TODO
 
-1. Add **tests**
-2. Maybe publish to **PyPI**
+1. Add tests
+2. Maybe publish to PyPI
+3. Count of reactions and likes
